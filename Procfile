@@ -1,3 +1,3 @@
-web: java -jar target/medisure-final.jar
+web: java -jar target/Medisure_AS.jar
 
 
