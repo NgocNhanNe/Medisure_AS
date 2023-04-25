@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 medisure-as/
+web: vendor/bin/heroku-php-apache2 medisure-final/
